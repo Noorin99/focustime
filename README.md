@@ -1,11 +1,10 @@
-# Sample Snack app
+## Focus Time App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<img src="https://user-images.githubusercontent.com/52853280/204836501-f671ac2a-f617-423c-91b9-178f307bd851.png" width="300"/>
+<img  src="https://user-images.githubusercontent.com/52853280/204837122-0b7a6b66-39e8-40c9-b1cd-be91d99bdfd4.png" width="300"/>
+<img width="300" alt="Screenshot 2022-11-30 at 18 14 23" src="https://user-images.githubusercontent.com/52853280/204837393-c4da33a7-85bc-427d-a601-213205826f05.png">
+<img width="300" alt="Screenshot 2022-11-30 at 18 14 30" src="https://user-images.githubusercontent.com/52853280/204837527-bd7c40e6-5717-4942-9019-9001ee8c55a5.png">
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+<img width="300" alt="Screenshot 2022-11-30 at 18 14 44" src="https://user-images.githubusercontent.com/52853280/204837492-524ec1e4-253a-445f-beb4-1ebb12b7a14e.png">
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
